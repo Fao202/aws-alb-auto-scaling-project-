@@ -67,7 +67,7 @@ Security Group Configuration:
 	•	Improves availability and fault tolerance
   <img width="1512" height="982" alt="5" src="https://github.com/user-attachments/assets/6b1a62bc-b0b6-47b8-bc7f-d6ce38719031" />
 <img width="1512" height="982" alt="8" src="https://github.com/user-attachments/assets/eacf1512-f2f4-4bcd-8080-586cd0e1d329" />
-<img width="1512" height="982" alt="14" src="https://github.com/user-attachments/assets/fac69aa6-ea55-43ab-b3fb-1b4b77a4eea6" />
+
 
 
 ⸻
@@ -80,7 +80,7 @@ Security Group Configuration:
 📌 Purpose:
 	•	Performs health checks on EC2 instances
 	•	Ensures only healthy instances receive traffic
-<img width="1512" height="982" alt="6" src="https://github.com/user-attachments/assets/98553c49-7f38-4f5a-8d5a-cce45fa46233" />
+<img width="1512" height="982" alt="14" src="https://github.com/user-attachments/assets/c010d4ef-1366-4a02-80f0-35416b7bb8f6" />
 <img width="1512" height="982" alt="7" src="https://github.com/user-attachments/assets/585decf3-9def-4544-a8dd-208835c000a9" />
 
 5️⃣ Launch Template
@@ -220,11 +220,17 @@ This project demonstrates core Cloud & DevOps engineering concepts:
 ⸻
 
 💡 Future Improvements
-	•	Add HTTPS using AWS Certificate Manager (ACM)
-	•	Implement CloudWatch alarms for dynamic scaling
-	•	Use Terraform for Infrastructure as Code
-	•	Add CI/CD pipeline for automated deployment
+	
+•	Add HTTPS using AWS Certificate Manager (ACM)
+
+•	Implement CloudWatch alarms for dynamic scaling
+
+•	Use Terraform for Infrastructure as Code
+
+•	Add CI/CD pipeline for automated deployment
   
 👨‍💻 Author
+
 Faisal Ahmed Ome
+
 Cloud Engineering project built as part of hands-on AWS learning journey.
